@@ -4,6 +4,6 @@ This program is a simple Rust command-line-utility to copy the contents of one f
 
 It will only copy a single file.
 
-Usage: copy src dest
-src : src file
+Usage: copy src dest  
+src : src file  
 dest : destination file
