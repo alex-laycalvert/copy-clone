@@ -6,8 +6,8 @@ authors = ["Alex Lay-Calvert <alex.laycalvert@gmail.com>"]
 license = "MIT"
 description = "A simple 'cp' clone made in Rust"
 readme = "README.md"
-homepage = "https://github.com/alex-laycalvert"
-repository = "https://github.com/alex-laycalvert/learnin.git"
+homepage = "https://github.com/alex-laycalvert/copy-clone"
+repository = "https://github.com/alex-laycalvert/copy-clone.git"
 keywords = ["copy", "test", "tutorial"]
 categories = ["command-line-utilities"]
 
