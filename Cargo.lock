@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "copy"
+name = "copy-clone"
 version = "1.0.0"
